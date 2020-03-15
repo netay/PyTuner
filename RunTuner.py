@@ -1,6 +1,6 @@
 # coding=utf8
-from Tuner import Tuner, openStream
-from music import Note
+from src.Tuner import Tuner, openStream
+from src.music import Note
 from argparse import Namespace
 
 flags = Namespace(
