@@ -10,3 +10,13 @@ otherwise from default system audio input.
 * pyaudio
 * PyQt5
 * pyqtgraph
+
+## Howto
+
+Run tuner app
+```bash
+python3 RunTuner.py
+```
+and play sounds on your instrument.
+
+If you run it in PyCharm, mark `src` as the source directory.
